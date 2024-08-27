@@ -1,8 +1,7 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" />
+</p>
 
 <!-- Presentation -->
 <p>
@@ -25,7 +24,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ot%C3%A1vio-de-almeida-670a41235/)
 
 <!-- GithubStats -->
+<div align="center">
+  
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luisotaviodev&show_icons=true&theme=github_dark)
+
+</div>
+
+###
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
