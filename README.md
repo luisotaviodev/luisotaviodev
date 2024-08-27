@@ -53,9 +53,8 @@
 ###
 
 <br clear="both">
-<div align="center">
+
 <img src="https://raw.githubusercontent.com/luisotaviodev/luisotaviodev/output/snake.svg" alt="Snake animation" />
-<\div>
 
 ###
 
