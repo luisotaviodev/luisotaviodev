@@ -56,11 +56,3 @@
     <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-head.png" alt="dbeaver logo">
     <img align="center" height="30" width="30" src="https://devpost.com.br/wp-content/uploads/2021/03/logo-256x256-1.png" alt="tortoise svn logo">
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/luisotaviodev/luisotaviodev/output/snake.svg" alt="Snake animation" />
-
-###
