@@ -4,6 +4,9 @@
 </p>
 
 <!-- Presentation -->
+<details>
+  <summary>🗣️Read me in English</summary>
+
 <p>
   Hi 👋, I'm Luis! A passionate about creating innovative and efficient solutions..
 
@@ -18,6 +21,29 @@
 
   - ⚡ I enjoy reading, watching movies, and gaming!
 </details>
+
+</details>
+<br>
+<details>
+  <summary>🗣️Leia me em Português</summary>
+
+<p>
+  Olá 👋, sou o Luis! Apaixonado por criar soluções inovadoras e eficientes..
+
+  - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+
+  - 💬 Tenho 20 anos e atualmente moro no Brasil. Sou desenvolvedor de software com experiência em Delphi e PostgreSQL, utilizando TortoiseSVN para controle de versão. Também tenho conhecimento em Python, Golang, Flutter e Lua. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+
+  - ⚡ Gosto de ler, assistir filmes e jogar!
+</details>
+
+</details>
+<br>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiiss_otavio/)
